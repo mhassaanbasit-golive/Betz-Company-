@@ -1,0 +1,6 @@
+{
+  "name": "Betz Company",
+  "description": "Land Development & Consulting in North and Central Texas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
